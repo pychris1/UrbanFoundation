@@ -1,4 +1,6 @@
 *{
+    console.log("ALPHABET".toLowerCase()); // 'alphabet'
+
     margin: 0;
     padding: 0;
 }
