@@ -4,7 +4,7 @@
 }
 #banner{
     background: linear-gradient(rgba(0,0,0,0.5),#293872 )
-    ,url(/Users/chris_keyyzz/Desktop/UrbanFoundation/IMG_1137.mov);
+    ,url(Users/chris_keyyzz/Desktop/UrbanFoundation/IMG_1137.mov);
     background-size: cover;
     background-position: center;
     height: 100vh;
